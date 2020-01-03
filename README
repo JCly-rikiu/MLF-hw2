@@ -1,0 +1,22 @@
+[MLF homework 2]
+
+1. How to compile:
+  $ cd r08922069/
+  $ make
+
+  Description:
+    This command will compile source files.
+
+2. How to run:
+  $ cd r08922069/
+  For problem 7:
+    $ make 7
+  For problem 8:
+    $ make 8
+
+  Description:
+    This command will run test and generate histogram.png
+
+3. My environment:
+
+  Compiler: g++ version 9.2.1
